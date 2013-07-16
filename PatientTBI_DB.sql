@@ -1,7 +1,7 @@
 USE [master]
 GO
 
-/****** Object:  Database [Patient_TBI]    Script Date: 07/16/2013 13:48:21 ******/
+/****** Object:  Database [Patient_TBI]    Script Date: 07/16/2013 18:01:26 ******/
 CREATE DATABASE [Patient_TBI] ON  PRIMARY 
 ( NAME = N'Patient_TBI', FILENAME = N'c:\Program Files\Microsoft SQL Server\MSSQL10.NEWMSSQLSERVER\MSSQL\DATA\Patient_TBI.mdf' , SIZE = 2048KB , MAXSIZE = UNLIMITED, FILEGROWTH = 1024KB )
  LOG ON 
